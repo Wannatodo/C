@@ -1,0 +1,5 @@
+﻿  game.c
+D:\学习\C语言\game\game\game.c(5,21): warning C4028: 形参 1 与声明不同
+D:\学习\C语言\game\game\game.c(94,1): warning C4029: 声明的形参表不同于定义
+D:\学习\C语言\game\game\game.c(91): warning C4716: “Water”: 必须返回一个值
+  game.vcxproj -> D:\学习\C语言\game\Debug\game.exe
